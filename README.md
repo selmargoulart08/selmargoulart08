@@ -2,10 +2,13 @@
 ### Olá, Eu sou o Selmar Junior 💻🤙
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selmar-da-silveira-goulart-junior-1114b3219/)
 
+![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 👉 selmargoulart08@gmail.com
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=selmargoulart08&show_icons=true&theme=chartreuse-dark)
+![Top langs2](https://github-readme-stats.vercel.app/api/top-langs/?username=selmargoulart08&theme=blue-green)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selmargoulart08&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 Principais Tecnologias que uso ⚙️ 👇
 
@@ -29,8 +32,15 @@ E desenvolvimento ⚙️ 👇
 ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 
+<div>
+  <p>Um apaixonado por tecnologia e lógica, que cresceu jogando games, e hoje ja se aventura em criar alguns.<br> Saindo uma area de compras de matéria prima e tabelas e tabelas em excel para descobrir que na programação é o meu lugar.<br>
+  Afinal, nada como um cafezinho e um vscode em um dia de chuva...<br>
+  Por isso hoje estudo mais mais a cada dia, supercurioso e extremamente focado  no avanço >_ </p>
+  
+</div>
 
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=selmargoulart08&show_icons=true&theme=chartreuse-dark)
+
+
